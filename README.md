@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Web3.0 & Blockchain**
 
 - 👨‍💻 All of my projects are available at [meet-hammad.web.app](meet-hammad.web.app)
-- 
+
 - 💬 talks about about JS, TypeScript, React, React-Native, Redux & Laravel
 
 - 📫 How to reach me **hammadanwar108@gmail.com**
