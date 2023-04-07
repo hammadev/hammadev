@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [meet-hammad.web.app](meet-hammad.web.app)
 
-- 💬 talks about about JS, TypeScript, React, React-Native, Redux & Laravel
+- 💬 Talks about about JS, TypeScript, React, React-Native, Redux & Laravel
 
 - 📫 How to reach me **hammadanwar108@gmail.com**
 
